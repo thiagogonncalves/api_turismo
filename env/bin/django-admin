@@ -1,4 +1,4 @@
-#!/home/gthiago/projetos/turismo/env/bin/python3
+#!/home/gthiago/Documentos/api_turismo/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
